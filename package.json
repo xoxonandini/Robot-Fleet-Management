@@ -23,4 +23,8 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.2.0"
   }
+  "engines": {
+  "node": "16.x"
+}
+
 }
